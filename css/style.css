@@ -1,1 +1,7 @@
-body { background-color: black; display: -ms-flexbox; display: flex; }
+body {
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/*# sourceMappingURL=style.css.map */
